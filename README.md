@@ -25,11 +25,11 @@ Copy-paste friendly stability badges from the [beautiful iojs docs](https://iojs
 ## Stability: 2 - Stable
 
 [![stable][stable-img]][stability-url]
-[stable-img]: https://img.shields.io/badge/stability-2%20--%20stable-green.svg?style=flat-square
+[stable-img]: https://img.shields.io/badge/stability-2%20--%20stable-brightgreen.svg?style=flat-square
 
 ```md
 [![stable][stable-img]][stability-url]
-[stable-img]: https://img.shields.io/badge/stability-2%20--%20stable-green.svg?style=flat-square
+[stable-img]: https://img.shields.io/badge/stability-2%20--%20stable-brightgreen.svg?style=flat-square
 [stability-url]: https://iojs.org/api/documentation.html#documentation_stability_index
 ```
 ## Stability: 3 - Locked
