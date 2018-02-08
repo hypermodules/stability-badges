@@ -1,4 +1,4 @@
-# iojs-stability-badges
+# stability-badges
 
 Copy-paste friendly stability badges from the [beautiful iojs docs](https://iojs.org/api/documentation.html#documentation_stability_index) generated from [shields.io](http://shields.io)
 
